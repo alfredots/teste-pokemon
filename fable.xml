@@ -1,0 +1,6 @@
+<fable>
+	<page background="bg.jpg">
+  	<agent img="cha.png" x="100" y="100" width="150" height="100"/>
+    <agent img="download.png" x="200" y="200" width="150" height="100"/>
+  </page>
+</fable>
