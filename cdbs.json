@@ -12,6 +12,18 @@
       "product_index": "CDICETIP"
    },
    {
+      "name": "200% CDI",
+      "percentage": 200,
+      "tax_percentage": 0,
+      "product_index": "CDICETIP"
+   },
+   {
+      "name": "220% CDI",
+      "percentage": 220,
+      "tax_percentage": 0,
+      "product_index": "CDICETIP"
+   },
+   {
       "name": "112% CDI",
       "percentage": 112,
       "tax_percentage": 0,
