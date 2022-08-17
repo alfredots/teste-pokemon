@@ -48,12 +48,6 @@
       "product_index": "CDICETIP"
    },
    {
-      "name": "116% CDI",
-      "percentage": 116,
-      "tax_percentage": 0,
-      "product_index": "CDICETIP"
-   },
-   {
       "name": "13.75% a.a",
       "percentage": 100,
       "tax_percentage": 13.75,
