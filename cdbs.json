@@ -120,18 +120,6 @@
       "product_index": "IPCA_ACUM"
    },
    {
-      "name": "IPCA + 7.25%",
-      "percentage": 100,
-      "tax_percentage": 7.25,
-      "product_index": "IPCA_ACUM"
-   },
-   {
-      "name": "IPCA + 7.25%",
-      "percentage": 100,
-      "tax_percentage": 7.25,
-      "product_index": "IPCA_ACUM"
-   },
-   {
       "name": "100% CDI",
       "percentage": 100,
       "tax_percentage": 0,
