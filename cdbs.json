@@ -149,6 +149,12 @@
       "tax_percentage": 0,
       "product_index": "LCICETIP"
    },
+   {
+      "name": "LCI 94% CDI",
+      "percentage": 94,
+      "tax_percentage": 0,
+      "product_index": "LCICETIP"
+   },
     {
       "name": "LCI 95% CDI",
       "percentage": 95,
