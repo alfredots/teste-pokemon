@@ -126,6 +126,24 @@
       "product_index": "IPCA_ACUM"
    },
    {
+      "name": "LCI 90% CDI",
+      "percentage": 90,
+      "tax_percentage": 0,
+      "product_index": "LCICETIP"
+   },
+   {
+      "name": "LCI 91% CDI",
+      "percentage": 91,
+      "tax_percentage": 0,
+      "product_index": "LCICETIP"
+   },
+   {
+      "name": "LCI 92% CDI",
+      "percentage": 92,
+      "tax_percentage": 0,
+      "product_index": "LCICETIP"
+   },
+   {
       "name": "LCI 93% CDI",
       "percentage": 93,
       "tax_percentage": 0,
