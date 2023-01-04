@@ -230,7 +230,19 @@
    {
       "name": "LCI IPCA + 5.11%",
       "percentage": 100,
-      "tax_percentage": 5.05,
+      "tax_percentage": 5.11,
+      "product_index": "LCI_IPCA"
+   },
+   {
+      "name": "LCI IPCA + 6.27%",
+      "percentage": 100,
+      "tax_percentage": 6.27,
+      "product_index": "LCI_IPCA"
+   },
+   {
+      "name": "LCI IPCA + 6.11%",
+      "percentage": 100,
+      "tax_percentage": 6.11,
       "product_index": "LCI_IPCA"
    },
    {
