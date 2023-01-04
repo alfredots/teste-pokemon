@@ -126,6 +126,36 @@
       "product_index": "IPCA_ACUM"
    },
    {
+      "name": "LCI 85% CDI",
+      "percentage": 85,
+      "tax_percentage": 0,
+      "product_index": "LCICETIP"
+   },
+   {
+      "name": "LCI 86% CDI",
+      "percentage": 86,
+      "tax_percentage": 0,
+      "product_index": "LCICETIP"
+   },
+   {
+      "name": "LCI 87% CDI",
+      "percentage": 87,
+      "tax_percentage": 0,
+      "product_index": "LCICETIP"
+   },
+   {
+      "name": "LCI 88% CDI",
+      "percentage": 88,
+      "tax_percentage": 0,
+      "product_index": "LCICETIP"
+   },
+   {
+      "name": "LCI 89% CDI",
+      "percentage": 89,
+      "tax_percentage": 0,
+      "product_index": "LCICETIP"
+   },
+   {
       "name": "LCI 90% CDI",
       "percentage": 90,
       "tax_percentage": 0,
@@ -170,6 +200,24 @@
    {
       "name": "LCI 97% CDI",
       "percentage": 97,
+      "tax_percentage": 0,
+      "product_index": "LCICETIP"
+   },
+   {
+      "name": "LCI 98% CDI",
+      "percentage": 98,
+      "tax_percentage": 0,
+      "product_index": "LCICETIP"
+   },
+   {
+      "name": "LCI 99% CDI",
+      "percentage": 99,
+      "tax_percentage": 0,
+      "product_index": "LCICETIP"
+   },
+   {
+      "name": "LCI 100% CDI",
+      "percentage": 100,
       "tax_percentage": 0,
       "product_index": "LCICETIP"
    },
