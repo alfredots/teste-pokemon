@@ -1,272 +1,60 @@
 [
-   {
-      "name": "102% CDI",
-      "percentage": 102,
-      "tax_percentage": 0,
-      "product_index": "CDICETIP"
-   },
-   {
-      "name": "108% CDI",
-      "percentage": 108,
-      "tax_percentage": 0,
-      "product_index": "CDICETIP"
-   },
-   {
-      "name": "200% CDI",
-      "percentage": 200,
-      "tax_percentage": 0,
-      "product_index": "CDICETIP"
-   },
-   {
-      "name": "220% CDI",
-      "percentage": 220,
-      "tax_percentage": 0,
-      "product_index": "CDICETIP"
-   },
-   {
-      "name": "112% CDI",
-      "percentage": 112,
-      "tax_percentage": 0,
-      "product_index": "CDICETIP"
-   },
-   {
-      "name": "115% CDI",
-      "percentage": 115,
-      "tax_percentage": 0,
-      "product_index": "CDICETIP"
-   },
-   {
-      "name": "105% CDI",
-      "percentage": 105,
-      "tax_percentage": 0,
-      "product_index": "CDICETIP"
-   },
-   {
-      "name": "116% CDI",
-      "percentage": 116,
-      "tax_percentage": 0,
-      "product_index": "CDICETIP"
-   },
-   {
-      "name": "13.75% a.a",
-      "percentage": 100,
-      "tax_percentage": 13.75,
-      "product_index": "PRE"
-   },
-   {
-      "name": "13.45% a.a",
-      "percentage": 100,
-      "tax_percentage": 13.45,
-      "product_index": "PRE"
-   },
-   {
-      "name": "13.6% a.a",
-      "percentage": 100,
-      "tax_percentage": 13.6,
-      "product_index": "PRE"
-   },
-   {
-      "name": "13.5% a.a",
-      "percentage": 100,
-      "tax_percentage": 13.5,
-      "product_index": "PRE"
-   },
-   {
-      "name": "103% CDI",
-      "percentage": 103,
-      "tax_percentage": 0,
-      "product_index": "CDICETIP"
-   },
-   {
-      "name": "IPCA + 7.5%",
-      "percentage": 100,
-      "tax_percentage": 7.5,
-      "product_index": "IPCA_ACUM"
-   },
-   {
-      "name": "14.55% a.a",
-      "percentage": 100,
-      "tax_percentage": 14.55,
-      "product_index": "PRE"
-   },
-   {
-      "name": "14.45% a.a",
-      "percentage": 100,
-      "tax_percentage": 14.45,
-      "product_index": "PRE"
-   },
-   {
-      "name": "IPCA + 6.95%",
-      "percentage": 100,
-      "tax_percentage": 6.95,
-      "product_index": "IPCA_ACUM"
-   },
-   {
-      "name": "IPCA + 7.3%",
-      "percentage": 100,
-      "tax_percentage": 7.3,
-      "product_index": "IPCA_ACUM"
-   },
-   {
-      "name": "IPCA + 7.25%",
-      "percentage": 100,
-      "tax_percentage": 7.25,
-      "product_index": "IPCA_ACUM"
-   },
-   {
-      "name": "100% CDI",
-      "percentage": 100,
-      "tax_percentage": 0,
-      "product_index": "CDICETIP"
-   },
-   {
-      "name": "IPCA + 7.85%",
-      "percentage": 100,
-      "tax_percentage": 7.85,
-      "product_index": "IPCA_ACUM"
-   },
-   {
-      "name": "LCI 85% CDI",
-      "percentage": 85,
-      "tax_percentage": 0,
-      "product_index": "LCICETIP"
-   },
-   {
-      "name": "LCI 86% CDI",
-      "percentage": 86,
-      "tax_percentage": 0,
-      "product_index": "LCICETIP"
-   },
-   {
-      "name": "LCI 87% CDI",
-      "percentage": 87,
-      "tax_percentage": 0,
-      "product_index": "LCICETIP"
-   },
-   {
-      "name": "LCI 88% CDI",
-      "percentage": 88,
-      "tax_percentage": 0,
-      "product_index": "LCICETIP"
-   },
-   {
-      "name": "LCI 89% CDI",
-      "percentage": 89,
-      "tax_percentage": 0,
-      "product_index": "LCICETIP"
-   },
-   {
-      "name": "LCI 90% CDI",
-      "percentage": 90,
-      "tax_percentage": 0,
-      "product_index": "LCICETIP"
-   },
-   {
-      "name": "LCI 91% CDI",
-      "percentage": 91,
-      "tax_percentage": 0,
-      "product_index": "LCICETIP"
-   },
-   {
-      "name": "LCI 92% CDI",
-      "percentage": 92,
-      "tax_percentage": 0,
-      "product_index": "LCICETIP"
-   },
-   {
-      "name": "LCI 93% CDI",
-      "percentage": 93,
-      "tax_percentage": 0,
-      "product_index": "LCICETIP"
-   },
-   {
-      "name": "LCI 94% CDI",
-      "percentage": 94,
-      "tax_percentage": 0,
-      "product_index": "LCICETIP"
-   },
-    {
-      "name": "LCI 95% CDI",
-      "percentage": 95,
-      "tax_percentage": 0,
-      "product_index": "LCICETIP"
-   },
-   {
-      "name": "LCI 96% CDI",
-      "percentage": 96,
-      "tax_percentage": 0,
-      "product_index": "LCICETIP"
-   },
-   {
-      "name": "LCI 97% CDI",
-      "percentage": 97,
-      "tax_percentage": 0,
-      "product_index": "LCICETIP"
-   },
-   {
-      "name": "LCI 98% CDI",
-      "percentage": 98,
-      "tax_percentage": 0,
-      "product_index": "LCICETIP"
-   },
-   {
-      "name": "LCI 99% CDI",
-      "percentage": 99,
-      "tax_percentage": 0,
-      "product_index": "LCICETIP"
-   },
-   {
-      "name": "LCI 100% CDI",
-      "percentage": 100,
-      "tax_percentage": 0,
-      "product_index": "LCICETIP"
-   },
-   {
-      "name": "LCI IPCA + 5.05%",
-      "percentage": 100,
-      "tax_percentage": 5.05,
-      "product_index": "LCI_IPCA"
-   },
-   {
-      "name": "LCI IPCA + 5.11%",
-      "percentage": 100,
-      "tax_percentage": 5.11,
-      "product_index": "LCI_IPCA"
-   },
-   {
-      "name": "LCI IPCA + 6.27%",
-      "percentage": 100,
-      "tax_percentage": 6.27,
-      "product_index": "LCI_IPCA"
-   },
-   {
-      "name": "LCI IPCA + 6.11%",
-      "percentage": 100,
-      "tax_percentage": 6.11,
-      "product_index": "LCI_IPCA"
-   },
-   {
-      "name": "LCI IPCA + 4.71%",
-      "percentage": 100,
-      "tax_percentage": 4.71,
-      "product_index": "LCI_IPCA"
-   },
-   {
-      "name": "LCI 12.2% a.a",
-      "percentage": 100,
-      "tax_percentage": 12.2,
-      "product_index": "LCI_PRE"
-   },
-   {
-      "name": "LCI 10.3% a.a",
-      "percentage": 100,
-      "tax_percentage": 10.3,
-      "product_index": "LCI_PRE"
-   },
-   {
-      "name": "LCI 10.7% a.a",
-      "percentage": 100,
-      "tax_percentage": 10.7,
-      "product_index": "LCI_PRE"
-   }
+  {"name":"100% CDI","percentage":100,"tax_percentage":0,"product_index":"CDICETIP"},
+  {"name":"102% CDI","percentage":102,"tax_percentage":0,"product_index":"CDICETIP"},
+  {"name":"103% CDI","percentage":103,"tax_percentage":0,"product_index":"CDICETIP"},
+  {"name":"104% CDI","percentage":104,"tax_percentage":0,"product_index":"CDICETIP"},
+  {"name":"105% CDI","percentage":105,"tax_percentage":0,"product_index":"CDICETIP"},
+  {"name":"106% CDI","percentage":106,"tax_percentage":0,"product_index":"CDICETIP"},
+  {"name":"108% CDI","percentage":108,"tax_percentage":0,"product_index":"CDICETIP"},
+  {"name":"110% CDI","percentage":110,"tax_percentage":0,"product_index":"CDICETIP"},
+  {"name":"200% CDI","percentage":200,"tax_percentage":0,"product_index":"CDICETIP"},
+  {"name":"220% CDI","percentage":220,"tax_percentage":0,"product_index":"CDICETIP"},
+  {"name":"112% CDI","percentage":112,"tax_percentage":0,"product_index":"CDICETIP"},
+  {"name":"115% CDI","percentage":115,"tax_percentage":0,"product_index":"CDICETIP"},
+  {"name":"116% CDI","percentage":116,"tax_percentage":0,"product_index":"CDICETIP"},
+  {"name":"13.00% a.a","percentage":100,"tax_percentage":13,"product_index":"PRE"},
+  {"name":"13.15% a.a","percentage":100,"tax_percentage":13.15,"product_index":"PRE"},
+  {"name":"13.35% a.a","percentage":100,"tax_percentage":13.35,"product_index":"PRE"},
+  {"name":"13.45% a.a","percentage":100,"tax_percentage":13.45,"product_index":"PRE"},
+  {"name":"13.6% a.a","percentage":100,"tax_percentage":13.6,"product_index":"PRE"},
+  {"name":"13.50% a.a","percentage":100,"tax_percentage":13.5,"product_index":"PRE"},
+  {"name":"13.55% a.a","percentage":100,"tax_percentage":13.55,"product_index":"PRE"},
+  {"name":"13.75% a.a","percentage":100,"tax_percentage":13.75,"product_index":"PRE"},
+  {"name":"13.90% a.a","percentage":100,"tax_percentage":13.9,"product_index":"PRE"},
+  {"name":"13.95% a.a","percentage":100,"tax_percentage":13.95,"product_index":"PRE"},
+  {"name":"14.10% a.a","percentage":100,"tax_percentage":14.1,"product_index":"PRE"},
+  {"name":"14.55% a.a","percentage":100,"tax_percentage":14.55,"product_index":"PRE"},
+  {"name":"14.45% a.a","percentage":100,"tax_percentage":14.45,"product_index":"PRE"},
+  {"name":"IPCA + 6.40%","percentage":100,"tax_percentage":6.4,"product_index":"IPCA_ACUM"},
+  {"name":"IPCA + 6.43%","percentage":100,"tax_percentage":6.43,"product_index":"IPCA_ACUM"},
+  {"name":"IPCA + 6.95%","percentage":100,"tax_percentage":6.95,"product_index":"IPCA_ACUM"},
+  {"name":"IPCA + 7.07%","percentage":100,"tax_percentage":7.07,"product_index":"IPCA_ACUM"},
+  {"name":"IPCA + 7.5%","percentage":100,"tax_percentage":7.5,"product_index":"IPCA_ACUM"},
+  {"name":"IPCA + 7.3%","percentage":100,"tax_percentage":7.3,"product_index":"IPCA_ACUM"},
+  {"name":"IPCA + 7.25%","percentage":100,"tax_percentage":7.25,"product_index":"IPCA_ACUM"},
+  {"name":"IPCA + 7.85%","percentage":100,"tax_percentage":7.85,"product_index":"IPCA_ACUM"},
+  {"name":"LCI 85% CDI","percentage":85,"tax_percentage":0,"product_index":"LCICETIP"},
+  {"name":"LCI 86% CDI","percentage":86,"tax_percentage":0,"product_index":"LCICETIP"},
+  {"name":"LCI 87% CDI","percentage":87,"tax_percentage":0,"product_index":"LCICETIP"},
+  {"name":"LCI 88% CDI","percentage":88,"tax_percentage":0,"product_index":"LCICETIP"},
+  {"name":"LCI 89% CDI","percentage":89,"tax_percentage":0,"product_index":"LCICETIP"},
+  {"name":"LCI 90% CDI","percentage":90,"tax_percentage":0,"product_index":"LCICETIP"},
+  {"name":"LCI 91% CDI","percentage":91,"tax_percentage":0,"product_index":"LCICETIP"},
+  {"name":"LCI 92% CDI","percentage":92,"tax_percentage":0,"product_index":"LCICETIP"},
+  {"name":"LCI 93% CDI","percentage":93,"tax_percentage":0,"product_index":"LCICETIP"},
+  {"name":"LCI 94% CDI","percentage":94,"tax_percentage":0,"product_index":"LCICETIP"},
+  {"name":"LCI 95% CDI","percentage":95,"tax_percentage":0,"product_index":"LCICETIP"},
+  {"name":"LCI 96% CDI","percentage":96,"tax_percentage":0,"product_index":"LCICETIP"},
+  {"name":"LCI 97% CDI","percentage":97,"tax_percentage":0,"product_index":"LCICETIP"},
+  {"name":"LCI 98% CDI","percentage":98,"tax_percentage":0,"product_index":"LCICETIP"},
+  {"name":"LCI 99% CDI","percentage":99,"tax_percentage":0,"product_index":"LCICETIP"},
+  {"name":"LCI 100% CDI","percentage":100,"tax_percentage":0,"product_index":"LCICETIP"},
+  {"name":"LCI IPCA + 5.05%","percentage":100,"tax_percentage":5.05,"product_index":"LCI_IPCA"},
+  {"name":"LCI IPCA + 5.11%","percentage":100,"tax_percentage":5.11,"product_index":"LCI_IPCA"},
+  {"name":"LCI IPCA + 6.27%","percentage":100,"tax_percentage":6.27,"product_index":"LCI_IPCA"},
+  {"name":"LCI IPCA + 6.11%","percentage":100,"tax_percentage":6.11,"product_index":"LCI_IPCA"},
+  {"name":"LCI IPCA + 4.71%","percentage":100,"tax_percentage":4.71,"product_index":"LCI_IPCA"},
+  {"name":"LCI 12.2% a.a","percentage":100,"tax_percentage":12.2,"product_index":"LCI_PRE"},
+  {"name":"LCI 10.3% a.a","percentage":100,"tax_percentage":10.3,"product_index":"LCI_PRE"},
+  {"name":"LCI 10.7% a.a","percentage":100,"tax_percentage":10.7,"product_index":"LCI_PRE"}
 ]
